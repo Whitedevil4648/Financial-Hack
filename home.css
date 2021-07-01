@@ -1,0 +1,62 @@
+body{
+				background: url('bg.jpg');
+}
+
+
+.head{
+				position: relative;
+				padding: 10px;
+				color: white;
+				display: inline;
+				left: 40%;
+				background-color: #252940;
+				margin-bottom: 20px;
+				border-radius:10px ; 
+}
+
+
+.topic{
+				font-weight:500;
+				font-size:50px ;
+				background-color: #80ff83;
+				border-radius: 10px;
+				padding: 15px;
+				display: inline;
+				color: #6a8dff;
+				margin-top: 5px;
+				margin-bottom: 5px;
+				margin-left: 15px;}
+.income{
+				position:relative ;
+				left: 10%;
+				height: 40px;
+				width: 40%;b
+				border-radius: 5px;
+				padding: 5px;
+}
+
+.btn{position: relative;
+				left: 10%;
+				height: 40px;
+				width: 20%;
+}
+
+.remark{
+				color:#ff2b35 ;
+				position: relative;
+				display: inline;
+				left: 10%;
+				background-color: white;
+				border-radius: 10px;
+				padding: 5px;
+}
+
+.container #change{position:relative;
+				background-color: #ffbfbf;co
+			 color: black;
+     	bborder-radius: 10x;
+     	padding: 10px;
+     width: 40%;
+     font-size: 30px;	
+     left: 10%;
+}
